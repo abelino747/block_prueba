@@ -1,5 +1,5 @@
 este es un proyecto
 para aprender  usar git
-primera vez 
+primera vez pero hago cambios para probar
 paciencia 
 se crea este mensaje de prueba para el comando code
