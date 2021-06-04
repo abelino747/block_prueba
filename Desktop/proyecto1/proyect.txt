@@ -3,3 +3,5 @@ para aprender  usar git
 primera vez pero hago cambios para probar
 paciencia 
 se crea este mensaje de prueba para el comando code
+3. prueba para mandar un archivo sin mensaje en git 
+gracias por la paciencia
