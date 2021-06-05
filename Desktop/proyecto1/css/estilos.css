@@ -1,14 +1,20 @@
 body{
     background:black;
-    color:white;
+    color: teal;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
-div{
-    padding: 5%;
+#conta{
+    padding: 3%;
     margin: auto;
     background: silver;
-
+    border: solid slateblue;
+    margin: 1% 5% 
+}
+#otra_rama{
+    background: slateblue;
+    color: snow;
+    margin:2%
 
 
 }
